@@ -1,7 +1,7 @@
 " vimrc
 " Jim Kopps
 
-colorscheme badwolf  " Colorscheme O' the day 
+" colorscheme badwolf  " Colorscheme O' the day 
 
 syntax enable        " Enable syntax (redundant comment that adds no clarity
 set tabstop=2        " Number of visual tabs
