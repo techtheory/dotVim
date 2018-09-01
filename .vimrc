@@ -3,7 +3,7 @@
 
 " colorscheme badwolf  " Colorscheme O' the day 
 
-syntax enable        " Enable syntax (redundant comment that adds no clarity
+syntax enable        " Enable syntax (redundant comment that adds no clarity)
 set tabstop=2        " Number of visual tabs
 set softtabstop=2    " Number of spaces in tab while editing
 set expandtab        " Tabs made up of spaces
